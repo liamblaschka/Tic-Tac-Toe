@@ -46,6 +46,7 @@ To build:
   <img src="https://github.com/liamblaschka/image-repo/blob/main/Tic-Tac-Toe/move_history3.png" width="332" height="350">
   <p>
     The arrow keys can be used to view the previous moves,<br>
-    (left goes back one move, right goes forward, up goes to the start, down goes back to the last move).
+    (left goes back one move, right goes forward, up goes to the start, down goes back to the last move).<br>
+    The board is slightly faded to indicate that it is showing the previous moves.
   </p>
 </div>
