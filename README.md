@@ -21,7 +21,7 @@ To use:
 To build:
 - Make a build directory and within it run 'cmake ..', then when it is finished, run 'make'.
 - Navigate to the bin directory within build.
-- run the 'tictactoe' executable.
+- Run the 'tictactoe' executable.
 
 ## Preview
 <div align="center">
