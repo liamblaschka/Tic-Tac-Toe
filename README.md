@@ -19,7 +19,7 @@ To use:
 - When play again is chosen, the player who goes first is alternated (if X went first last game, now O goes first).
 
 To build:
-- Make a build directory and within it run 'cmake ..', then when it is finished, run 'make'.
+- Make a build directory and within it run 'cmake ..' , then when it is finished, run 'make'.
 - Navigate to the bin directory within build.
 - Run the 'tictactoe' executable.
 
