@@ -3,14 +3,14 @@
 ## Description
 C++ SFML 2 player tic tac toe game. Features include the scoreboard, the ability to play again and alternating who goes first each time, and the ability to see the previous moves using the arrow keys.
 
-Skills demonstrated:
+### Skills demonstrated:
 - C++
 - Object Oriented Programming
 - SFML
 - Design of friendly user interface
 
 ## Instructions
-To use:
+### To use:
 - After running, it starts as X's turn, simply click a square to make a move.
 - With each move the turn will alternate.
 - If you get three of your pieces in a row horizontally, vertically, or diagonally, you win.
@@ -18,7 +18,7 @@ To use:
 - When the game is over the outcome is added to the scoreboard, the option is then presented whether to play again or exit.
 - When play again is chosen, the player who goes first is alternated (if X went first last game, now O goes first).
 
-To build:
+### To build:
 - Make a build directory and within it run 'cmake ..' , then when it is finished, run 'make'.
 - Navigate to the bin directory within build.
 - Run the 'tictactoe' executable.
