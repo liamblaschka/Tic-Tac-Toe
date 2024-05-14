@@ -7,7 +7,7 @@ C++ SFML 2 player tic tac toe game. Features include the scoreboard, the ability
 - C++
 - Object Oriented Programming
 - SFML
-- Design of friendly user interface
+- Friendly user interface design
 
 ## Instructions
 ### To use:
