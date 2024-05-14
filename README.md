@@ -1,7 +1,7 @@
 # Tic-Tac-Toe
 
 ## Description
-C++ SFML 2 player tic tac toe game. Features include the scoreboard, the ability to play again and alternating who goes first each time, and the ability to see the previous moves using the arrow keys.
+2 player tic tac toe game made in C++ using SFML. Features include the scoreboard, the ability to play again and alternating who goes first each time, and the ability to see the previous moves using the arrow keys.
 
 ### Skills demonstrated:
 - C++
